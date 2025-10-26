@@ -61,4 +61,5 @@ python-utils, email
 
 Siéntete libre de mejorar el script, añadir soporte para HTML o adjuntos, y abrir un Pull Request .
 
-!(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpoaHczemFqZjFuMzFzNTljcXR1cDh5Zjl3aTRjYXcyejhmaHlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V7jF0zpgjEYGQ/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpoaHczemFqZjFuMzFzNTljcXR1cDh5Zjl3aTRjYXcyejhmaHlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V7jF0zpgjEYGQ/giphy.gif" alt="Perrito divertido" width="300"/>
+
